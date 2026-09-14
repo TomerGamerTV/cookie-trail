@@ -1,5 +1,7 @@
 # CookieTrail
 
+[![Powered by RustChain](https://img.shields.io/badge/Powered%20by-RustChain-orange)](https://rustchain.org)
+
 CookieTrail is a non-custodial Cookie Chain cApp for sending COOK with a human-readable receipt embedded in the same transaction through the canonical SVM Memo program.
 
 **Live app:** https://tomergamertv.github.io/cookie-trail/
